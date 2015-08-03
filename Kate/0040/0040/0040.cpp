@@ -11,7 +11,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	cout<<"Ky-Ky"<<endl;
 	cout<<"Epta"<<endl;
-	//2586/
+	//123
 	
 	return 0;
 }
