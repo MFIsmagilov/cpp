@@ -9,7 +9,7 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 
-	cout<<"Ky-ky"<<endl;
+	cout<<"Ky-Ky"<<endl;
 	cout<<"Epta"<<endl;
 	//2586/
 	
